@@ -18,7 +18,8 @@ public class CadenasCaracteres {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int suma=0;
+ 
+        
         // TODO code application logic here
 
 //        String cadena = "El resultado de la operacion es :";
